@@ -8,6 +8,7 @@ Photon is a simple web application that displays a gallery of images. Users can 
 - HTML
 - CSS
 - JavaScript
+- You need an Api Key for this project. https://www.pexels.com/api/key/ from this site. Sorry!
 
 ## Setup Instructions
 1. Clone the repository:
