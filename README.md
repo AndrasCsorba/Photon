@@ -59,5 +59,3 @@ In this point. This is the first line of the JS File.
 
 ## License
 This project is licensed under the MIT License.
-```
-
