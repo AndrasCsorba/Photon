@@ -10,6 +10,7 @@ Photon is a simple web application that displays a gallery of images. Users can 
 - HTML
 - CSS
 - JavaScript
+- Api Calling
 
 ## Setup Instructions
 1. Clone the repository:
