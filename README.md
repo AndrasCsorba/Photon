@@ -36,10 +36,10 @@ photon/
 1. Open [`index.html`] in a web browser.
 2. Use the search form to search for images.
 3. Click the "More" button to load more images.
-4. You need an Api key from the Pexels.com/api/key website. Sorry!
-   
-6. const auth = ""; //ADD THE AUTH KEY
-In this point. This is the first line of the JS File.
+4. You need an Api key from the Pexels.com/api/key website.
+ I gived my key. The first line in my code. I know, this is not safe, but I think so many, HR worker's 
+don't want to make an Api key. 
+
 
 ## Contribution Guidelines
 1. Fork the repository.
