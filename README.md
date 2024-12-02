@@ -58,4 +58,6 @@ don't want to make an Api key.
 5. Open a pull request.
 
 ## License
-This project is licensed under the MIT License.
+This project is
+licensed under
+the MIT License.
